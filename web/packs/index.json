@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "nakayosi_oneesans.json"
+  ],
+  "homeserver_url": "https://matrix.fedibird.com"
+}
